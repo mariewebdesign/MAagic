@@ -1,0 +1,11 @@
+@media screen and (max-width:800px){
+    .resultat{width:100%;padding:1em 5em;padding-top:10em;}
+    #tabList{list-style-type: none;margin:0;padding:0;padding-left:2rem;margin-bottom:-4em}
+}
+
+@media screen and (max-width:570px){
+    .jumbotron{background-color:#fcfcfc;margin-top:-2em;border-bottom:1px solid #e2e2e2}
+    .resultat{width:100%;padding:1em 3em;padding-top:9em;}
+    #tabList{list-style-type: none;margin:0;padding:0;padding-left:2rem;margin-bottom:-2em}
+    .searchPage form{margin-top:1em;width:50%;height:50%;background:#fff;justify-content: space-between;display:flex;border-radius:1rem}
+}
